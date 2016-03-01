@@ -9,3 +9,6 @@ REMARKS:
 2. While the program is running , may be errors like :
 Un successes while trying to lock/unlock the queue, init the cond or the mutex , malloc etc..
 If it happened, a message with the problem and where (which function) it happened, will occur and the function will shut(return).
+
+
+      ///moshe
