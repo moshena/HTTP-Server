@@ -2,7 +2,7 @@ shonot.
 Shon Otmazgin 305394975.
 EX4 – HTTP server.
 threadpool.c - implantation of threadpool.h , which creating a threads pool for jobs to process.
-server.c - is a socket programing , which implement a HTTP server that responding to client resquests the server using treads for requests.
+server.c - is a socket programing , which implement a HTTP server that responding to client resquests the server using threads for requests.
 README - this file.
 REMARKS:
 1. please use it with FireFox.
